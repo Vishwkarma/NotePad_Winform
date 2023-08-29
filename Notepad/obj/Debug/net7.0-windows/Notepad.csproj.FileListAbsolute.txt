@@ -1,0 +1,17 @@
+D:\Winform\Notepad\bin\Debug\net7.0-windows\Notepad.exe
+D:\Winform\Notepad\bin\Debug\net7.0-windows\Notepad.deps.json
+D:\Winform\Notepad\bin\Debug\net7.0-windows\Notepad.runtimeconfig.json
+D:\Winform\Notepad\bin\Debug\net7.0-windows\Notepad.dll
+D:\Winform\Notepad\bin\Debug\net7.0-windows\Notepad.pdb
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.AssemblyReference.cache
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.Form1.resources
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.GenerateResource.cache
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.AssemblyInfoInputs.cache
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.AssemblyInfo.cs
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.CoreCompileInputs.cache
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.dll
+D:\Winform\Notepad\obj\Debug\net7.0-windows\refint\Notepad.dll
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.pdb
+D:\Winform\Notepad\obj\Debug\net7.0-windows\Notepad.genruntimeconfig.cache
+D:\Winform\Notepad\obj\Debug\net7.0-windows\ref\Notepad.dll
